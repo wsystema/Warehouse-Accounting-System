@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1051270119269",
+    "project_id": "warehouse-accounting-system",
+    "storage_bucket": "warehouse-accounting-system.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1051270119269:android:e62071cff60b6787c12b8c",
+        "android_client_info": {
+          "package_name": "com.example.warehouse_accounting_systems"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBUhHVjioq_lSIBdaPzWMh_gpJsh62n-zY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
